@@ -1,0 +1,3 @@
+#!/bin/sh -e
+
+sudo -H -u vagrant dtach -n /tmp/rtsess rtorrent
